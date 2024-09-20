@@ -1,0 +1,7 @@
+<html>
+<body>
+<form>
+name:<input type="text" name="n1">
+</form>
+</body>
+</html>
